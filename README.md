@@ -1,1 +1,1 @@
-# Banking-ManagementSystem
+This project which is "Banking Management System" is C language console based project, which gives the user a chance to access the features as an account holder as well as a bank employee. You can create an account,view your account details,update your account details and balance, update information and make trsansactions. And as a bank employee, you can login as a bank employee,view account holders list,their details,edit info of the account holder (selective), delete an account, add money to ATM and disable ATM services. 
